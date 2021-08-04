@@ -7,7 +7,7 @@
 **Talking about me:**
 
 - 🎓 Graduando em Sistemas de Informação pela UNIDESC
-- 📫Contate- me com lucasbran48@gmail.com
+- 📫 Fale comigo com lucasbran48@gmail.com
 - 🇧🇷 Morando no brasil
 ---
 
