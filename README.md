@@ -7,9 +7,9 @@
 **Talking about me:**
 
 - 🎓 Graduando em Sistemas de Informação pela UNIDESC
-- 📫 Fale comigo com lucasbran48@gmail.com
+- 📫 Fale comigo com https://lucasbrandao00.github.io/portfolio/
 - 🇧🇷 Morando no brasil
-- https://lucasbrandao00.github.io/portfolio/
+
 ---
 
 <p align="center">
