@@ -1,6 +1,6 @@
 ## Opa! Sou Lucas Brandão, Testador de Sofware
 
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/Lucasbrandao00)
@@ -14,6 +14,20 @@
 - 🇧🇷 Morando no brasil
 
 ---
+## Conhecimentos
+
+- Automação com Java;
+- Automação Mobile e Web;
+- Junit;
+- Appium;
+- Behavior Driven Development (BDD);
+- Gherkin;
+- Cucumber;
+- Selenium WebDriver.
+
+
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
 
 <p align="center">
   <a href="https://github.com/Lucasbrandao00/Lucasbrandao00">
