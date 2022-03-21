@@ -1,5 +1,5 @@
 <h1 align="center"> Opa! Eu sou Lucas Brandão</h1>
-<h3 align="center">TEST ANALYST</h3>
+<h3 align="center">Quality Assurance/QA</h3>
 
 
 
