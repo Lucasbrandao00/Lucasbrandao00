@@ -1,4 +1,4 @@
-<h1 align="center"> Opa! Eu sou Lucas Brandão</h1>
+<h1 align="center"> Olá! Eu sou Lucas Brandão</h1>
 <h3 align="center">Quality Assurance/QA</h3>
 
 <p align="center">
