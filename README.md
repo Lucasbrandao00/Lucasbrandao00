@@ -13,6 +13,8 @@
 - 📫 Fale comigo com https://lucasbrandao00.github.io/portfolio/
 - 🇧🇷 Morando no brasil
 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
 ---
 ## Conhecimentos
 
@@ -26,7 +28,7 @@
 - Selenium WebDriver.
 
 
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
 
 
 <p align="center">
@@ -47,11 +49,6 @@
 
 ---
 
-**Languages and Tools:**
 
-<img height="25" src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=000"></img>
-<img height="25" src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=000"></img>
-<img height="25" src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=000"></img>
-<img height="25" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=000"></img>
 
 
