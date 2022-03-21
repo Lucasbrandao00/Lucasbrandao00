@@ -1,13 +1,6 @@
 <h1 align="center"> Opa! Eu sou Lucas Brandão</h1>
 <h3 align="center">Quality Assurance/QA</h3>
 
-
-
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/Lucasbrandao00)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-brand%C3%A3o-164657181/)
-[![Gmail](http://img.shields.io/badge/-Gmail-8e24aa?style=flat-square&logo=Gmail&logoColor=white)](mailto:lucasbran48@gmail.com)
-
 **Talking about me:**
 
 - 🎓 Graduando em Sistemas de Informação pela UNIDESC
@@ -28,7 +21,9 @@
 - Cucumber;
 - Selenium WebDriver.
 
-
+[![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/Lucasbrandao00)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-brand%C3%A3o-164657181/)
+[![Gmail](http://img.shields.io/badge/-Gmail-8e24aa?style=flat-square&logo=Gmail&logoColor=white)](mailto:lucasbran48@gmail.com)
 
 
 
