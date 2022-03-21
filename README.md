@@ -1,4 +1,4 @@
-## Opa! Sou Lucas Brandão, Testador de Sofware
+## Opa! Eu sou Lucas Brandão, Testador de Sofware
 
 
 
