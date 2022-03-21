@@ -2,7 +2,7 @@
 <h3 align="center">Quality Assurance/QA</h3>
 
 <p align="center">
-  <img src="https://tenor.com/view/coding-gif-18657810" width="350">
+  <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="350">
 </p>
 
 **Talking about me:**
