@@ -1,8 +1,6 @@
 <h1 align="center"> Opa! Eu sou Lucas Brandão</h1>
 <h3 align="center">Quality Assurance/QA</h3>
 
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-
 **Talking about me:**
 
 - 🎓 Graduando em Sistemas de Informação pela UNIDESC
