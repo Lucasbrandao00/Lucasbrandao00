@@ -21,8 +21,8 @@
 - Behavior Driven Development (BDD);
 - Gherkin;
 - Cucumber;
-- Selenium WebDriver.
-
+- Selenium WebDriver;
+- Conhecimento/Vivência em Kanban e metodologias Ágeis (Scrum).
 
 <p align="center">
   <a href="https://github.com/Lucasbrandao00/Lucasbrandao00">
