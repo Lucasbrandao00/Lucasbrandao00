@@ -1,6 +1,6 @@
 <h1 align="center"> Olá! Eu sou Lucas Brandão</h1>
 <h3 align="center">Quality Assurance/QA</h3>
-<img src="https://bstqb.org.br/b9/img/selos/Selo-FL.png" width="50">
+<img src="https://w7.pngwing.com/pngs/611/508/png-transparent-international-software-testing-qualifications-board-certification-certified-tester-foundation-level-others-text-logo-course.png" width="200">
 
 <p align="center">
   <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="350">
