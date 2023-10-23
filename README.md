@@ -1,5 +1,6 @@
 <h1 align="center"> Olá! Eu sou Lucas Brandão</h1>
 <h3 align="center">Quality Assurance/QA</h3>
+<img src="https://bstqb.org.br/b9/img/selos/Selo-FL.png" width="50">
 
 <p align="center">
   <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="350">
@@ -7,19 +8,23 @@
 
 **Talking about me:**
 
-- 🎓 Graduando em Sistemas de Informação pela UNIDESC
+- 🎓 Graduado em Sistemas de Informação
+- CTFL - ISTQB/BSTQB
 - 💻 https://lucasbrandao00.github.io/portfolio/
 - 🇧🇷 Morando no brasil
 
 ---
 ## Conhecimentos
 
-- Automação com Java;
+- Automação de teste com Java e C#;
 - Automação Mobile e Web;
+- Automação de testes API;
+- OWASP Pen test;
+- Rest Assured;
 - Junit;
 - Appium;
 - Behavior Driven Development (BDD);
-- Gherkin;
+- Cultura DevOps;
 - Cucumber;
 - Selenium WebDriver;
 - Conhecimento/Vivência em Kanban e metodologias Ágeis (Scrum).
