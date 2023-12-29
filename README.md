@@ -1,5 +1,6 @@
 <h1 align="center"> Olá! Eu sou Lucas Brandão</h1>
 <h3 align="center">Quality Assurance/QA</h3>
+<h3 align="center">CTFL</h3>
 
 <p align="center">
   <img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="350">
@@ -7,8 +8,8 @@
 
 **Talking about me:**
 
-- 🎓 Graduado em Sistemas de Informação
-- CTFL - ISTQB®/BSTQB®
+- 👨‍🎓 Bacharel em Sistemas de Informação
+- 🎓 ISTQB® Certified Tester Foundation Level (CTFL) BSTQB®
 - 💻 https://lucasbrandao00.github.io/portfolio/
 - 🇧🇷 Morando no brasil
 
