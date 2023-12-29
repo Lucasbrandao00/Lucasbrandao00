@@ -8,7 +8,7 @@
 **Talking about me:**
 
 - 🎓 Graduado em Sistemas de Informação
-- CTFL - ISTQB/BSTQB
+- CTFL - ISTQB®/BSTQB®
 - 💻 https://lucasbrandao00.github.io/portfolio/
 - 🇧🇷 Morando no brasil
 
@@ -20,6 +20,7 @@
 - Automação de testes API;
 - OWASP Pen test;
 - Rest Assured;
+- Pentest Owasp/SQL injection
 - Junit;
 - Appium;
 - Behavior Driven Development (BDD);
