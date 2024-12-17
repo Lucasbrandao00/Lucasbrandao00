@@ -10,7 +10,8 @@
 
 - 👨‍🎓 Bacharel em Sistemas de Informação
 - 🎓 ISTQB® Certified Tester Foundation Level (CTFL) BSTQB®
-- 💻 https://lucasbrandao00.github.io/Lucasbrandao00-Portfolio/
+- 🎓 ISTQB® Certified Tester Foundation Level Agile Tester (CTFL-AT) BSTQB®
+- 💻 https://lucasbrandao00.github.io/Portfolio/
 - 🇧🇷 Morando no brasil
 
 ---
