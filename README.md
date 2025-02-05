@@ -1,5 +1,5 @@
 <h1 align="center"> Olá! Eu sou Lucas Brandão</h1>
-<h3 align="center">Quality Assurance/QA</h3>
+<h3 align="center">Testing Engineer Software</h3>
 <h3 align="center">CTFL/CTFL-AT</h3>
 
 <p align="center">
